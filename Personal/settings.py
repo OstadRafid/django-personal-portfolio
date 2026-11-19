@@ -20,16 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-1z=0*yhm1r2t$6h1gjk#n%d3ub-hj^7qv5xm&m#hg%&apx089z'
+SECRET_KEY = 'dj9z'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    "127.0.0.1",
-    "localhost",
-    "gazing-utter-retrieval.ngrok-free.dev",
-]
+ALLOWED_HOSTS = []
 
 CSRF_TRUSTED_ORIGINS = [
     "https://gazing-utter-retrieval.ngrok-free.dev",
