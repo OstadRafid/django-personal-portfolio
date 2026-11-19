@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Personal Portfolio Website
 
 ## 📌 About the Project
@@ -130,3 +131,7 @@ This project is developed as part of a Django Beginner Assignment to practice th
 ## 📄 License
 
 Created for educational purposes.
+=======
+# django-personal-portfolio
+A personal portfolio website built with Django, HTML, CSS, and JavaScript to showcase my profile, skills, projects, and contact information.
+>>>>>>> b4650371007c019118bdafed64f0d7b7de4d8237
